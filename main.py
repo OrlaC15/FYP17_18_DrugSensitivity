@@ -11,4 +11,4 @@ data.head()
 ##print(data.describe())
 dataZ= pd.read_csv(drugs)
 ##print(dataZ)
-print(data.dtypes)## prints object types 
+print(data.dtypes)## prints object types
