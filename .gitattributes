@@ -1,3 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 resources filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
+resources/CCLE_Expression_Entrez_2012-09-29.gct filter=lfs diff=lfs merge=lfs -text
